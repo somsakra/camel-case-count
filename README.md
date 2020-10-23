@@ -1,6 +1,6 @@
 # CamelCase Count
 
-Alice wrote a sequence of words in <font color='lightblue' class="text-blue" >CamelCase</font> as a string of letters, _**s**_, having the following properties:
+Alice wrote a sequence of words in [CamelCase](https://en.wikipedia.org/wiki/Camel_case) as a string of letters, _**s**_, having the following properties:
 
 - It is a concatenation of one or more _words_ consisting of English letters.
 - All letters in the first word are _lowercase_.
